@@ -1,0 +1,1 @@
+MsgBox "예상치 못한 오류가 발생했습니다." , vblnformation , "오류"

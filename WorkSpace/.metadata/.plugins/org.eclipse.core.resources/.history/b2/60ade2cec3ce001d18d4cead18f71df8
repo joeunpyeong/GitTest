@@ -1,0 +1,15 @@
+
+public class Test06 {
+	public static void main(String[] args) {
+		int lang,math,eng,sci,ath;
+		lang = 70;
+		math = 80;
+		eng = 90;
+		sci = 80;
+		ath = 70;
+		System.out.println("");
+		if (lang == 70) {
+System.out.println("good");			
+		}
+	}
+}

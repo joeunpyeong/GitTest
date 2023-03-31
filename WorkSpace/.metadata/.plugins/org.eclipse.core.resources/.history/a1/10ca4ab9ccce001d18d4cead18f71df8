@@ -1,0 +1,7 @@
+package pack09_scanner;
+
+public class Ex02_Scannner {
+	public static void main(String[] args) {
+		
+	}
+}

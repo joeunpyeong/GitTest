@@ -1,0 +1,23 @@
+package pack04_char;
+
+public class Ex01_char {
+	public static void main(String[] args) {
+		//문자 데이터 타입 : char (2byte)
+		//하나의 글자만 저장 : 유니코드
+		//변수에 값을 할당(대입)할 때는 작은 따옴표를 사용한다.
+		//작은 따옴표 == 싱글 코테이션 == '
+		//소문자 a를 문자 데이터타입 char을 이용하여 초기화해보기.
+		char cha1 = 'a';
+		char cha2 = 'b';
+		char cha3 = '★';
+		char cha4 = '가';
+		//char charError = ''; 아무것도 없는 것은 x
+		//char charError = 'ab'; 문자가 아니라 문자열 x
+		char cha5 = 65;
+		System.out.println(cha1);
+		System.out.println(cha2);
+		System.out.println(cha3);
+		System.out.println(cha4);
+		System.out.println(cha5);
+	}
+}

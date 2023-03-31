@@ -1,0 +1,19 @@
+package test01_Variable;
+
+public class test {
+	public static void main(String[] args) {
+		
+	
+	int a=1;
+	long b = 2l;
+	
+	float c = 1.1F;
+	double d =2.2;
+	
+	System.out.println(a);
+	System.out.println(b);
+	System.out.println(c);
+	System.out.println(d);
+	
+	}
+}

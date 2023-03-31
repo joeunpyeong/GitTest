@@ -1,0 +1,15 @@
+package pack09_scanner;
+
+import java.util.Scanner;
+
+public class Ex02_Scannner {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("숫자를 입력");
+		String inputData = sc.nextLine();
+		System.out.println(inputData);
+		int num = Integer.parseInt(inputData);
+		System.out.println(num+20);
+		
+	}
+}
