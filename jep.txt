@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-aaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-=======
-ab
->>>>>>> Stashed changes
+a
+b
